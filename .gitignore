@@ -16,3 +16,4 @@ venv.bak/
 data/*.csv
 data/*.json
 models/*.pth
+data/*
