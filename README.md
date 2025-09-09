@@ -168,16 +168,3 @@ This implementation demonstrates several key insights:
 This work builds on "Neo: A Learned Query Optimizer" by Marcus et al. (VLDB 2019), which pioneered the application of deep reinforcement learning to end-to-end query optimization. MiniNeo distills the core insights of Neo's approach while focusing on the specific problem of join order optimization.
 
 The research demonstrates that machine learning approaches can practical alternatives to traditional query optimization techniques, particularly for complex analytical workloads where traditional optimizers often struggle.
-
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{parr2024minineo,
-  title={MiniNeo: A Simplified Learned Query Optimizer with Tree Convolution},
-  author={Parr, Ian},
-  year={2024},
-  institution={University of Utah}
-}
-```
